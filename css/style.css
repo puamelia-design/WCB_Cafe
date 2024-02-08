@@ -81,7 +81,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(WCB_Cafe/images/top-2.jpg);
+    background-image: url(../images/news-bg.jpg);
     min-height: 100vh;
 }
 #home .page-title {
